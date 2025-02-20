@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "964526556591",
+    "project_id": "dz-train",
+    "storage_bucket": "dz-train.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964526556591:android:3df4c8e315846eea14db5a",
+        "android_client_info": {
+          "package_name": "com.example.dz_train"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD1anayXKXIfmlFI_tsolDmZYf7cuk2JM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
